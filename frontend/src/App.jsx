@@ -53,7 +53,7 @@ function App() {
 
   useEffect(() => {
     if (user) {
-      const socketio = io('http://localhost:8000', {
+      const socketio = io('https://social-media-msj4.onrender.com', {
         auth: { userId: user._id },
         transports: ['websocket'],
       });
