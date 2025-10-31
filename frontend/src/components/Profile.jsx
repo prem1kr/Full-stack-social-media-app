@@ -110,7 +110,7 @@ const Profile = () => {
                   sx={{ mt: 1 }}
                 />
                 <Typography variant="body2" sx={{ mt: 1 }}>
-                  🤯 Learn code with Patel (MERN stack style)
+                  🤯 Learn code with PK (MERN stack style)
                   <br />
                   🤯 Turning code into fun
                   <br />
